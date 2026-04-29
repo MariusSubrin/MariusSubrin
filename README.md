@@ -67,7 +67,7 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MariusSubrin&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?username=MariusSubrin&theme=tokyonight)
 
 ---
 
