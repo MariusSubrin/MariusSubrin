@@ -1,15 +1,8 @@
 ## ✨ Welcome on my page - Marius Subrin ✨
 
 🎓 Computer Science Engineering Student at UTBM (France)  
-🌍 Looking for a 23-week internship (Sept 2026 – Jan 2027)  
-💻 Interested in Software Development, AI, Cybersecurity & Game Dev  
-
----
-
-## 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marius-subrin/)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:subrinmarius@gmail.com)
+🌍 Looking for a 23-week internship as assistant engineer (Sept 2026 – Jan 2027)  
+💻 Interested in Software Development, AI, Cybersecurity, Networking & Game Dev  
 
 ---
 
@@ -23,23 +16,31 @@
 
 ## 💻 Current Projects
 
+- LoreOfLife : https://github.com/MariusSubrin/LoreOfLife
+- Heros_game : https://github.com/MariusSubrin/heros_game
+
 ---
 
 ## 📌 Past Projects
+
+- LoveLetter_remake
 
 ---
 
 ## 🛠️ Skills
 
+C++ C Java HTML5 JavaScript PHP Python Bootstrap TailWindCSS MySQL Canva Cisco Godot Unity Kotlin 
+
 ### Programming Languages
 
 | Language | Level |
 |--------|------|
-| C | ███████░░░ 7/10 |
-| Java | ████████░░ 8/10 |
-| Python | ██████░░░░ 6/10 |
-| JavaScript | █████░░░░░ 5/10 |
-| C# | █████░░░░░ 5/10 |
+| Kotlin | ███████░░░ 7/10 |
+| SQL | ███████░░░ 7/10 |
+| C | ████░░░░░░ 5/10 |
+| Java | ███████░░░ 7/10 |
+| Prolog | █████░░░░░ 5/10 |
+| HTML, CSS, JS, PHP | ████████░░ 8/10 |
 
 ---
 
@@ -68,6 +69,13 @@
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MariusSubrin&theme=tokyonight)
+
+---
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marius-subrin/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:subrinmarius@gmail.com)
 
 ---
 
