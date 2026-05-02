@@ -72,19 +72,20 @@
 - ⚙️ Backend: SQL, symphony 
 - 🧠 AI: Prolog
 - 🔐 Cybersecurity: fundamentals  
-- 🎮 Game Dev: Unity, Godot  
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=MariusSubrin&show_icons=true&theme=tokyonight)
+- 🎮 Game Dev: Unity, Godot
 
 ---
 
 ## 📈 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariusSubrin&layout=compact&theme=tokyonight)
+
+---
+
+## 📊 GitHub Stats
+
+![Marius's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MariusSubrin&show_icons=true&theme=tokyonight)
+
 
 ---
 
