@@ -31,13 +31,35 @@
 
 - 💌 LoveLetter_remake [01/2026] : (University Project) Creation of the "Love letter" game in .java, with some addons to match our school particularities. [https://github.com/MariusSubrin/LoveLetter_remake]
 - 🔐 Autorization-system [11/2025] : (University Project) Authorization verification system via a connection to a virtual server. [https://github.com/MariusSubrin/Authorization_system]
-- 🤖 Basic_neural_network [01/2025] : (University Project) University project to create a neural network.
+- 🤖 Basic_neural_network [01/2025] : (University Project) University project to create a neural network. [https://github.com/MariusSubrin/Basic_neural_network]
 
 ---
 
 ## 🛠️ Skills
 
-C++ C Java HTML5 JavaScript PHP Python Bootstrap TailWindCSS MySQL Canva Cisco Godot Unity Kotlin 
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-cyan?style=for-the-badge&logo=tailwindcss)
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+![Canva](https://img.shields.io/badge/Canva-blueviolet?style=for-the-badge&logo=canva)
+
+![Cisco](https://img.shields.io/badge/Cisco-blue?style=for-the-badge&logo=cisco)
+
+![Godot](https://img.shields.io/badge/Godot-blue?style=for-the-badge&logo=godot-engine)
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin)
 
 ### Programming Languages
 
@@ -64,7 +86,15 @@ C++ C Java HTML5 JavaScript PHP Python Bootstrap TailWindCSS MySQL Canva Cisco G
 
 ## 📊 GitHub Stats
 
-![Marius's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariusSubrin&show_icons=true&theme=tokyonight)
+![Profile views](https://komarev.com/ghpvc/?username=MariusSubrin&color=blue)
+
+---
+
+![Marius's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariusSubrin&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+----
+
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=MariusSubrin&theme=tokyonight)
 
 ---
 
