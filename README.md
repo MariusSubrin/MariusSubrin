@@ -78,7 +78,7 @@
 
 ## 📊 GitHub Stats
 
-![Marius's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MariusSubrin&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=MariusSubrin&show_icons=true&theme=tokyonight)
 
 ---
 
