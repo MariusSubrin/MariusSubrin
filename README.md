@@ -40,25 +40,17 @@
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
-
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-cyan?style=for-the-badge&logo=tailwindcss)
-
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
 ![Canva](https://img.shields.io/badge/Canva-blueviolet?style=for-the-badge&logo=canva)
-
 ![Cisco](https://img.shields.io/badge/Cisco-blue?style=for-the-badge&logo=cisco)
-
 ![Godot](https://img.shields.io/badge/Godot-blue?style=for-the-badge&logo=godot-engine)
 ![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
-
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin)
 
 ### Programming Languages
@@ -86,14 +78,6 @@
 
 ## 📊 GitHub Stats
 
-![Profile views](https://komarev.com/ghpvc/?username=MariusSubrin&color=blue)
-
----
-
-![Marius's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariusSubrin&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-----
-
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=MariusSubrin&theme=tokyonight)
 
 ---
@@ -118,6 +102,8 @@
 ---
 
 ⭐ Feel free to check my repositories and give feedback!
+
+![Profile views](https://komarev.com/ghpvc/?username=MariusSubrin&color=blue)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
