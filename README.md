@@ -78,7 +78,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=MariusSubrin&theme=tokyonight)
+![Marius's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MariusSubrin&show_icons=true&theme=tokyonight)
 
 ---
 
