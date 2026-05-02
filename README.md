@@ -1,8 +1,8 @@
 ## ✨ Welcome on my page - Marius Subrin ✨
 
-🎓 Computer Science Engineering Student at UTBM (France)  
-🌍 Looking for a 23-week internship as assistant engineer (Sept 2026 – Feb 2027)  
-💻 Interested in Software Development, AI, Cybersecurity, Networking & Game Dev  
+- 🎓 Computer Science Engineering Student at UTBM (France)  
+- 🌍 Looking for a 23-week internship as assistant engineer (Sept 2026 – Feb 2027)  
+- 💻 Interested in Software Development, AI, Cybersecurity, Networking & Game Dev  
 
 ---
 
@@ -16,22 +16,22 @@
 
 ## 💻 Current Projects
 
-- LoreOfLife : (Personal Project) For cultural enrichment (non-computer-related, only in French). [https://github.com/MariusSubrin/LoreOfLife]
-- Heros_game : (Personal Project) A multiple-choice game based on “choose-your-own-adventure” books, with the addition of many features that digital media offers over the print format. [https://github.com/MariusSubrin/heros_game]
-- Force3_remake : (Personal Project) I'm going to implement the game “Force 3” in Python and create a basic interface for this project. [https://github.com/MariusSubrin/Force3_remake]
+- 🌍 LoreOfLife : (Personal Project) For cultural enrichment (non-computer-related, only in French). [https://github.com/MariusSubrin/LoreOfLife]
+- 🔀 Heros_game : (Personal Project) A multiple-choice game based on “choose-your-own-adventure” books, with the addition of many features that digital media offers over the print format. [https://github.com/MariusSubrin/heros_game]
+- 🧩 Force3_remake : (Personal Project) I'm going to implement the game “Force 3” in Python and create a basic interface for this project. [https://github.com/MariusSubrin/Force3_remake]
 
-- Organ : (University Project) A collaborative project management application whose key feature is a highly granular and customizable permissions system. [https://github.com/the-voxel-studio/organ]
+- 🧠 Organ : (University Project) A collaborative project management application whose key feature is a highly granular and customizable permissions system. [https://github.com/the-voxel-studio/organ]
 
-- Nyvo : (Voxel-studio project) A 2D platformer set in a semi-open world where you can explore freely, tackle challenging obstacles, and uncover secrets in a pixel-art universe. [Currently private]
-- LeaderSheep : (Voxel-studio project) A quirky clicker game where you build a sheep empire by upgrading them, battling, and exploring an ever-changing universe. [Currently private]
+- 🎮 Nyvo : (Voxel-studio project) A 2D platformer set in a semi-open world where you can explore freely, tackle challenging obstacles, and uncover secrets in a pixel-art universe. [Currently private]
+- 🐑 LeaderSheep : (Voxel-studio project) A quirky clicker game where you build a sheep empire by upgrading them, battling, and exploring an ever-changing universe. [Currently private]
 
 ---
 
 ## 📌 Past Projects
 
-- LoveLetter_remake [01/2026] : (University Project) Creation of the "Love letter" game in .java, with some addons to match our school particularities. [https://github.com/MariusSubrin/LoveLetter_remake]
-- Autorization-system [11/2025] : (University Project) Authorization verification system via a connection to a virtual server. [https://github.com/MariusSubrin/Authorization_system]
-- Basic_neural_network [01/2025] : (University Project) University project to create a neural network.
+- 💌 LoveLetter_remake [01/2026] : (University Project) Creation of the "Love letter" game in .java, with some addons to match our school particularities. [https://github.com/MariusSubrin/LoveLetter_remake]
+- 🔐 Autorization-system [11/2025] : (University Project) Authorization verification system via a connection to a virtual server. [https://github.com/MariusSubrin/Authorization_system]
+- 🤖 Basic_neural_network [01/2025] : (University Project) University project to create a neural network.
 
 ---
 
