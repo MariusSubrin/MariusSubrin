@@ -63,12 +63,13 @@
 | Java | ███████░░░ 7/10 |
 | Prolog | █████░░░░░ 5/10 |
 | HTML, CSS, JS, PHP | ████████░░ 8/10 |
+| Angular | ███░░░░░░░ 3/10 |
 
 ---
 
 ### Technologies
 
-- 🌐 Web: HTML, CSS, JS, PHP
+- 🌐 Web: HTML, CSS, JS, PHP, Angular
 - ⚙️ Backend: SQL, symphony 
 - 🧠 AI: Prolog
 - 🔐 Cybersecurity: fundamentals  
