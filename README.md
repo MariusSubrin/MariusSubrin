@@ -1,114 +1,179 @@
-Complète mon readme de mon github, en mettant en anglais, en reformulant, tu peux aussi me faire des propositions d'ajouts ou modifs
+# Hi, I'm Marius Subrin
 
-## ✨ Welcome on my page - Marius Subrin ✨
+**Computer Science Engineering Student at UTBM | Software Development | AI & Web Technologies**
 
-- 🎓 Computer Science Engineering Student at UTBM (France) - diplomé en Juin 2028
-- 🌍 Looking for a 23-week internship as assistant engineer (Sept 2026 – Feb 2027) - Actuellement en stage d'assistant ingénieur et développement web au sein de la marine nationale
-- 💻 Interested in Software Development, AI, Cybersecurity, Networking & Game Dev  
+- 🎓 **Education:** Computer Science Engineering Degree at UTBM, France — expected June 2028
+- 💼 **Current Experience:** Assistant Engineer & Web Development Intern at the French Navy (September 2026 – February 2027)
+- 💻 **Technical Interests:** Software Engineering, Web Development, Artificial Intelligence, Cybersecurity, Networking & Game Development
+
+I enjoy designing and building software projects, solving technical problems, and exploring new technologies through hands-on development.
 
 ---
 
 ## 💡 About Me
 
-- 🧠 Passionate about problem solving and building projects  
-- 🤖 Interested in creative coding  
-- 🚀 Currently learning new technologies
-- Utilisation de l'ia en tant que compagnon pour travailler plus efficacement, LLM et Agent
+- 🧠 Interested in problem-solving, software design, and building practical applications.
+- 🌐 Exploring web development, backend technologies, databases, and access control.
+- 🤖 Interested in generative AI, Large Language Models (LLMs), and AI agents as tools to improve development workflows.
+- 🎮 Exploring game development, gameplay mechanics, and interactive experiences.
+- 🚀 Continuously improving my technical skills through university assignments, personal projects, and collaborative development.
+
+My goal is to turn ideas into functional software while developing strong engineering fundamentals and learning to build maintainable, reliable applications.
 
 ---
 
 ## 💻 Current Projects
 
-- 🌍 LoreOfLife : (Personal Project) For cultural enrichment (non-computer-related, only in French). [https://github.com/MariusSubrin/LoreOfLife]
-- 🔀 Heros_game : (Personal Project) A multiple-choice game based on “choose-your-own-adventure” books, with the addition of many features that digital media offers over the print format. [https://github.com/MariusSubrin/heros_game]
-- 🧩 Force3_remake : (Personal Project) I'm going to implement the game “Force 3” in Python and create a basic interface for this project. [https://github.com/MariusSubrin/Force3_remake]
-- Labnum_poker : une application mobile pour nous permettre de retracer notre nombre de jetons après chaque parties suivant notre repas du midi, courbes, statistiques et base de donnée partagée. []
+### 🌍 [LoreOfLife](https://github.com/MariusSubrin/LoreOfLife)
+**Personal Project · Cultural Discovery**
+
+A personal project focused on cultural enrichment through non-technical topics. The content is currently available in
+French.
+
+### 📖 [Heros_game](https://github.com/MariusSubrin/heros_game)
+**Personal Project · Interactive Storytelling**
+
+A digital choose-your-own-adventure game inspired by interactive books, enhanced with features that take advantage of
+the digital format.
+
+### 🧩 [Force3_remake](https://github.com/MariusSubrin/Force3_remake)
+**Personal Project · Python & Game Logic**
+
+An implementation of the strategy game *Force 3* in Python, including a basic graphical interface and game mechanics.
+
+### ♠️ Labnum Poker [https://github.com/MariusSubrin/Labnum-Poker]
+**Personal Project · Web Application & Data Visualization**
+
+A shared application for tracking poker chip counts after each lunchtime game. The goal is to record results, visualize
+player performance over time, and provide statistics through a shared database.
 
 ---
 
-## 📌 Past Projects
+## 📌 Past & Paused Projects
 
-- 💌 LoveLetter_remake [01/2026] : (University Project) Creation of the "Love letter" game in .java, with some addons to match our school particularities. [https://github.com/MariusSubrin/LoveLetter_remake]
-- 🔐 Autorization-system [11/2025] : (University Project) Authorization verification system via a connection to a virtual server. [https://github.com/MariusSubrin/Authorization_system]
-- 🤖 Basic_neural_network [01/2025] : (University Project) University project to create a neural network. [https://github.com/MariusSubrin/Basic_neural_network]
+### 🧠 [Organ](https://github.com/the-voxel-studio/organ)
+**University Project · June 2026 · Collaborative Application**
 
-- 🧠 Organ [06/2026] : (University Project) A collaborative project management application whose key feature is a highly granular and customizable permissions system. [https://github.com/the-voxel-studio/organ]
+A collaborative project management application featuring a highly granular and customizable permission system, designed
+to support flexible access control and team collaboration.
 
-- 🎮 Nyvo [pause] : (Voxel-studio project) A 2D platformer set in a semi-open world where you can explore freely, tackle challenging obstacles, and uncover secrets in a pixel-art universe. [Currently private]
-- 🐑 LeaderSheep [pause] : (Voxel-studio project) A quirky clicker game where you build a sheep empire by upgrading them, battling, and exploring an ever-changing universe. [Currently private]
+### 💌 [LoveLetter_remake](https://github.com/MariusSubrin/LoveLetter_remake)
+**University Project · January 2026 · Java**
+
+An implementation of the card game *Love Letter*, extended with additional features tailored to the requirements of our
+university project.
+
+### 🔐 [Authorization_system](https://github.com/MariusSubrin/Authorization_system)
+**University Project · November 2025 · Cybersecurity**
+
+A project exploring authorization mechanisms and access control through interactions with a virtual server.
+
+### 🤖 [Basic_neural_network](https://github.com/MariusSubrin/Basic_neural_network)
+**University Project · January 2025 · Artificial Intelligence**
+
+An introductory project focused on implementing a basic neural network to explore fundamental concepts in artificial
+intelligence.
+
+### 🎮 Nyvo
+**Voxel Studio Project · Currently on Hold · Game Development**
+
+A 2D pixel-art platformer set in a semi-open world. Players can explore freely, tackle challenging obstacles, discover
+secrets, and choose their own path through the game world.
+
+*Repository currently private.*
+
+### 🐑 LeaderSheep
+**Voxel Studio Project · Currently on Hold · Game Development**
+
+A quirky clicker game in which players build a sheep empire through upgrades, battles, and exploration in an evolving
+universe.
+
+*Repository currently private.*
 
 ---
 
-## 🛠️ Skills
-
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-cyan?style=for-the-badge&logo=tailwindcss)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Canva](https://img.shields.io/badge/Canva-blueviolet?style=for-the-badge&logo=canva)
-![Cisco](https://img.shields.io/badge/Cisco-blue?style=for-the-badge&logo=cisco)
-![Godot](https://img.shields.io/badge/Godot-blue?style=for-the-badge&logo=godot-engine)
-![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
-![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin)
--Rajoute Angular
+## 🛠️ Technical Skills
 
 ### Programming Languages
 
-| Language | Level |
-|--------|------|
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
+![Prolog](https://img.shields.io/badge/Prolog-darkred?style=for-the-badge)
+
+### Web Development & Frameworks
+
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+![Symfony](https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-cyan?style=for-the-badge&logo=tailwindcss)
+
+### Databases & Other Technologies
+
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Cisco](https://img.shields.io/badge/Cisco-blue?style=for-the-badge&logo=cisco)
+![Godot](https://img.shields.io/badge/Godot-blue?style=for-the-badge&logo=godotengine)
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
+
+### Technical Areas
+
+| Area | Technologies & Topics |
+|---|---|
+| **Web Development** | HTML, CSS, JavaScript, PHP, Angular |
+| **Backend Development** | PHP, Symfony |
+| **Databases** | SQL, MySQL |
+| **Artificial Intelligence** | Neural networks, Prolog, generative AI, LLMs and AI agents |
+| **Cybersecurity** | Authentication, authorization and access control fundamentals |
+| **Networking** | Networking fundamentals, Cisco technologies |
+| **Game Development** | Unity, Godot |
+
+### Programming Languages & Proficiency
+
+| Language / Technology | Level |
+|:--|:--|
 | Kotlin | ██████░░░░ 6/10 |
 | SQL | ███████░░░ 7/10 |
 | C | ████░░░░░░ 4/10 |
 | Java | ██████░░░░ 6/10 |
 | Prolog | ████░░░░░░ 4/10 |
-| HTML, CSS, JS, PHP | ████████░░ 8/10 |
+| HTML, CSS, JavaScript, PHP | ████████░░ 8/10 |
 | Angular | ███████░░░ 7/10 |
 
----
-
-### Technologies
-
-- 🌐 Web: HTML, CSS, JS, PHP, Angular
-- ⚙️ Backend: SQL, symphony 
-- 🧠 AI: Prolog
-- 🔐 Cybersecurity: fundamentals
-- 🎮 Game Dev: Unity, Godot
-- Réseau : fundamentals
+*These ratings are personal estimates of my current proficiency and are intended as a general indication rather than formal skill assessments.*
 
 ---
 
 ## 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariusSubrin&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariusSubrin&layout=compact&theme=tokyonight)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![Marius's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MariusSubrin&show_icons=true&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MariusSubrin&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MariusSubrin&theme=tokyonight)
 
 ---
 
-## 🔗 Connect with me
+## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marius-subrin/)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:subrinmarius@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marius-subrin/)
 
----
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:subrinmarius@gmail.com)
 
-⭐ Feel free to check my repositories and give feedback!
+Feel free to explore my repositories, share feedback, or connect with me to discuss software development, artificial intelligence, and creative projects.
 
-![Profile views](https://komarev.com/ghpvc/?username=MariusSubrin&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=MariusSubrin&color=blue)
