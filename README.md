@@ -53,57 +53,71 @@ All AI-generated contributions must be reviewed, understood, and tested before b
 
 ## 💻 Current Projects
 
-### 🌍 [LoreOfLife](https://github.com/MariusSubrin/LoreOfLife)
-**Personal Project · Cultural Discovery**
+### ---- University ----
 
-A personal project focused on cultural enrichment through non-technical topics. The content is currently available in
-French.
+#### 🧩 [Force3_remake](https://github.com/MariusSubrin/Force3_remake)
+**Personal Project · Python & Game Logic**
 
-### 📖 [Heros_game](https://github.com/MariusSubrin/heros_game)
+An implementation of the strategy game *Force 3* in Python, including a basic graphical interface and game mechanics.
+
+### ---- Personal ----
+
+#### 📖 [Heros_game](https://github.com/MariusSubrin/heros_game)
 **Personal Project · Interactive Storytelling**
 
 A digital choose-your-own-adventure game inspired by interactive books, enhanced with features that take advantage of
 the digital format.
 
-### 🧩 [Force3_remake](https://github.com/MariusSubrin/Force3_remake)
-**Personal Project · Python & Game Logic**
-
-An implementation of the strategy game *Force 3* in Python, including a basic graphical interface and game mechanics.
-
-### ♠️ Labnum Poker [https://github.com/MariusSubrin/Labnum-Poker]
+#### ♠️ [Labnum Poker](https://github.com/MariusSubrin/Labnum-Poker)
 **Personal Project · Web Application & Data Visualization**
 
 A shared application for tracking poker chip counts after each lunchtime game. The goal is to record results, visualize
 player performance over time, and provide statistics through a shared database.
 
+### ---- Associative (Voxel-studio) ----
+
+- We aren't working on a big project actually but doing small ones every two weeks, calling them "Labs", on learning purpose.
+
+### ---- No link with developement ----
+
+#### 🌍 [LoreOfLife](https://github.com/MariusSubrin/LoreOfLife)
+**Personal Project · Cultural Discovery**
+
+A personal project focused on cultural enrichment through non-technical topics. The content is currently available in
+French. Usage of the "Obsidian" application is recommended.
+
 ---
 
 ## 📌 Past & Paused Projects
 
-### 🧠 [Organ](https://github.com/the-voxel-studio/organ)
+### ---- University ----
+
+#### 🧠 [Organ](https://github.com/the-voxel-studio/organ)
 **University Project · June 2026 · Collaborative Application**
 
 A collaborative project management application featuring a highly granular and customizable permission system, designed
 to support flexible access control and team collaboration.
 
-### 💌 [LoveLetter_remake](https://github.com/MariusSubrin/LoveLetter_remake)
+#### 💌 [LoveLetter_remake](https://github.com/MariusSubrin/LoveLetter_remake)
 **University Project · January 2026 · Java**
 
 An implementation of the card game *Love Letter*, extended with additional features tailored to the requirements of our
 university project.
 
-### 🔐 [Authorization_system](https://github.com/MariusSubrin/Authorization_system)
+#### 🔐 [Authorization_system](https://github.com/MariusSubrin/Authorization_system)
 **University Project · November 2025 · Cybersecurity**
 
 A project exploring authorization mechanisms and access control through interactions with a virtual server.
 
-### 🤖 [Basic_neural_network](https://github.com/MariusSubrin/Basic_neural_network)
+#### 🤖 [Basic_neural_network](https://github.com/MariusSubrin/Basic_neural_network)
 **University Project · January 2025 · Artificial Intelligence**
 
 An introductory project focused on implementing a basic neural network to explore fundamental concepts in artificial
 intelligence.
 
-### 🎮 Nyvo
+### ---- Associative (Voxel-studio) ----
+
+#### 🎮 Nyvo
 **Voxel Studio Project · Currently on Hold · Game Development**
 
 A 2D pixel-art platformer set in a semi-open world. Players can explore freely, tackle challenging obstacles, discover
@@ -111,7 +125,7 @@ secrets, and choose their own path through the game world.
 
 *Repository currently private.*
 
-### 🐑 LeaderSheep
+#### 🐑 LeaderSheep
 **Voxel Studio Project · Currently on Hold · Game Development**
 
 A quirky clicker game in which players build a sheep empire through upgrades, battles, and exploration in an evolving
