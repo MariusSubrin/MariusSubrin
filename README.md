@@ -26,7 +26,7 @@ My goal is to turn ideas into functional software while developing strong engine
 
 My objective is to ensure transparency regarding AI-assisted contributions while maintaining human responsibility for the quality, reliability, and maintainability of the codebase.
 
-To achieve this, I use the following personal classification to describe the level of AI involvement in each project, documented in an `AI_USAGE.md` file and shortly in the `README.md`:
+To achieve this, I use the following personal classification to describe the level of AI involvement in each project, documented in an `AI_USAGE.md` file and shortly at the end of the `README.md`:
 
 | Level | Label | Description |
 |---|---|---|
