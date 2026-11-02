@@ -56,10 +56,7 @@ All AI-generated contributions must be reviewed, understood, and tested before b
 
 ### ---- University ----
 
-#### 🧩 [Force3_remake](https://github.com/MariusSubrin/Force3_remake)
-**Personal Project · Python & Game Logic**
-
-An implementation of the strategy game *Force 3* in Python, including a basic graphical interface and game mechanics.
+- Actually Web Development Intern at the French Navy
 
 ### ---- Personal ----
 
@@ -74,6 +71,11 @@ the digital format.
 
 A shared application for tracking poker chip counts after each lunchtime game. The goal is to record results, visualize
 player performance over time, and provide statistics through a shared database.
+
+#### 🧩 [Force3_remake](https://github.com/MariusSubrin/Force3_remake)
+**Personal Project · Python & Game Logic**
+
+An implementation of the strategy game *Force 3* in Python, including a basic graphical interface and game mechanics.
 
 ### ---- Associative (Voxel-studio) ----
 
